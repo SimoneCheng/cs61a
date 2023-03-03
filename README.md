@@ -20,3 +20,4 @@ Index: https://inst.eecs.berkeley.edu//~cs61as/reader/
 
 
 *影片檔是 Fall, 2010，其他資源是 Spring, 2011
+*寫完作業後可以參考：https://github.com/zackads/sicp
