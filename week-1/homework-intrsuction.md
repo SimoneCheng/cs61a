@@ -1,6 +1,4 @@
-# CS 61A Week 1
-
-## Topic: Functional programming
+# CS 61A Week 1, Topic: Functional programming
 
 ## Reading
 
