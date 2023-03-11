@@ -15,10 +15,10 @@ Trying to
  - take midterms: https://inst.eecs.berkeley.edu//~cs61a/reader/vol2.html
  - take final: https://inst.eecs.berkeley.edu//~cs61a/reader/vol2.html
 
-Homepage: https://inst.eecs.berkeley.edu//~cs61a/sp11/  
+Homepage: https://inst.eecs.berkeley.edu//~cs61a/sp11/
 Index: https://inst.eecs.berkeley.edu//~cs61as/reader/
 
 ---
 
-*影片檔是 Fall, 2010，其他資源是 Spring, 2011  
+*影片檔是 Fall, 2010，其他資源是 Spring, 2011
 *寫完作業後可以參考：https://github.com/zackads/sicp
