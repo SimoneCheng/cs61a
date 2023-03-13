@@ -20,5 +20,11 @@ Index: https://inst.eecs.berkeley.edu//~cs61as/reader/
 
 ---
 
-*影片檔是 Fall, 2010，其他資源是 Spring, 2011
-*寫完作業後可以參考：https://github.com/zackads/sicp
+- 影片檔是 Fall, 2010，其他資源是 Spring, 2011
+- 寫完作業後可以參考：https://github.com/zackads/sicp
+
+---
+
+用 Scheme 寫太難惹惹惹，決定來用 python 來寫...
+
+新的 cs61a 網址：https://inst.eecs.berkeley.edu/~cs61a/fa22/
